@@ -1,0 +1,10 @@
+{
+  "name": "stylus-type-utils",
+  "repo": "blakeembrey/stylus-type-utils",
+  "description": "Stylus typography functions and type conversion",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}

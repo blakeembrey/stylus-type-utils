@@ -1,0 +1,26 @@
+{
+  "name": "stylus-type-utils",
+  "version": "0.0.1",
+  "description": "Stylus typography functions and type conversion",
+  "main": "lib/type-utils.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "stylus",
+    "typeograhy",
+    "coercion",
+    "rem",
+    "em",
+    "px",
+    "pt",
+    "percent"
+  ],
+  "author": "Blake Embrey",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "stylus": "~0.32.0"
+  }
+}
