@@ -4,7 +4,7 @@ Much needed Stylus typeography unit coersion and normalization. Provides several
 
 ## Installation
 
-    $ component install blakeembrey/stylus-type-utils
+    $ npm install stylus-type-utils --save
 
 ## API
 
