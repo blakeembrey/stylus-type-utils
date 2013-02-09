@@ -6,7 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/stylus-type-utils.git"
+  },
   "keywords": [
     "stylus",
     "typeograhy",
@@ -17,6 +20,7 @@
     "pt",
     "percent"
   ],
+  "homepage": "https://github.com/blakeembrey/stylus-type-utils",
   "author": "Blake Embrey",
   "license": "MIT",
   "readmeFilename": "Readme.md",
