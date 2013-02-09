@@ -20,6 +20,9 @@
   "author": "Blake Embrey",
   "license": "MIT",
   "readmeFilename": "Readme.md",
+  "peerDependencies": {
+    "stylus": "0.x"
+  },
   "devDependencies": {
     "stylus": "~0.32.0"
   }
