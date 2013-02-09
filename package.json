@@ -1,6 +1,6 @@
 {
   "name": "stylus-type-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stylus typography functions and type conversion",
   "main": "lib/type-utils.js",
   "scripts": {
