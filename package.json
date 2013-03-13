@@ -28,6 +28,6 @@
     "stylus": "0.x"
   },
   "devDependencies": {
-    "stylus": "~0.32.0"
+    "stylus": "~0.32.1"
   }
 }
