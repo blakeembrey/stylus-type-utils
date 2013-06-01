@@ -25,7 +25,7 @@ The second parameter, `ignore-base-font-size`, allows the function to act as if 
 
 ## Example Usage
 
-    @import "type-utils"
+    @import "node_modules/stylus-type-utils"
 
     base-font-size = 75%
 
