@@ -4,7 +4,17 @@ Much needed Stylus typeography unit coersion and normalization. Provides several
 
 ## Installation
 
-    $ npm install stylus-type-utils --save
+    npm install stylus-type-utils --save
+
+### With Plugin Use
+
+    stylus -u stylus-type-utils app.styl
+
+    @import "type-utils";
+
+### With Direct Import
+
+    @import "node_modules/stylus-type-utils";
 
 ## API
 
@@ -45,7 +55,7 @@ The second parameter, `ignore-base-font-size`, allows the function to act as if 
     base-font-size = 100%
 
     rem(16px) // 1rem
-   
+
 
 ## License
 
