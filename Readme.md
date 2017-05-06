@@ -1,5 +1,7 @@
 # Stylus Type Utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/stylus-type-utils.svg)](https://greenkeeper.io/)
+
 Much needed Stylus typeography unit coersion and normalization. Provides several common unit conversion functions to convert between types effortlessly and in sync with the content font size.
 
 ## Installation
